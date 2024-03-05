@@ -1,0 +1,6 @@
+library(reticulate)
+py_install("pandas")
+py_install("numpy")
+py_install("matplotlib")
+
+
